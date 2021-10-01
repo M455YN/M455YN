@@ -4,6 +4,7 @@
 ### Hi there, it's DEVMASSYN 👋
 
 CTO, CMO OF https://szyrgamestudio.com/
+<br>Currently: IT student at the Kazimierz Wielki University in Bydgoszcz, Poland
 ## How to reach me
 
 [<img align="left" alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/WTmPaaS)[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mateusz-afelt-662799221/)[<img align="left" alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/c/devmassyn)<br>
