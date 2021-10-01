@@ -21,7 +21,7 @@ CTO, CMO OF https://szyrgamestudio.com/
 - 🔭 Szyr Game Studio Game Launcher; 
 - 🔭 Szyr Game Studio Website
 
-## Games made by me
+## Games / Projects made by me
 ### Turbo Ninja 2d [<img align="right" alt="itch" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />](https://devmassyn.itch.io/turbo-ninja-2d)<img align="left" alt="cs" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /><img align="left" alt="unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
 
 <!--
