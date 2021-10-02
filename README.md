@@ -1,5 +1,5 @@
-<img align="right" src="https://i.imgur.com/Kq0iK6j.png" width=24% height=24%>
-<img align="right" src="https://c.tenor.com/LMWOS_HKVa8AAAAC/szyr-game-studio-sgs.gif" width=24% height=24%>
+<img align="right" src="https://i.imgur.com/Kq0iK6j.png" width=24% height=24% />
+<img align="right" src="https://c.tenor.com/LMWOS_HKVa8AAAAC/szyr-game-studio-sgs.gif" width=24% height=24% href="https://szyrgamestudio.com" />
 
 ### Hi there, it's DEVMASSYN 👋
 
