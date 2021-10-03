@@ -26,6 +26,7 @@ CTO, CMO OF https://szyrgamestudio.com/
 
 ## Games / Projects made by me
 ### Turbo Ninja 2d [<img align="right" alt="itch" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />](https://devmassyn.itch.io/turbo-ninja-2d)<img align="left" alt="cs" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /><img align="left" alt="unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+### https://szyrgamestudio.com [<img align="right" alt="www" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" />](https://szyrgamestudio.com)<img align="left" alt="html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /><img align="left" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
 <!--
 **DEVMASSYN/DEVMASSYN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
