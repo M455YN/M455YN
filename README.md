@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/51244922/175575555-575669cb-8317-4894-b347-575f7d84e4e0.png" width="300" title="hover text">
-</p>
 <h1 align="center">Hi 👋, I'm DEVMASSYN</h1>
 <h3 align="center">IT student at the Kazimierz Wielki University in Bydgoszcz, Poland</h3>
 
