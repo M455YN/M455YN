@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm DEVMASSYN</h1>
 <h3 align="center">IT student at the Kazimierz Wielki University in Bydgoszcz, Poland</h3>
+<h4 align="center">CTO Of SZYRGAMESTUDIO https://github.com/szyrgamestudio</h4>
 
 - 🔭 I’m currently working on [SGSClient](https://github.com/szyrgamestudio/SGSClient)
 
