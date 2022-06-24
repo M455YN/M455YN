@@ -1,31 +1,25 @@
-<a href="https://www.linkedin.com/in/devmassyn/"><img align="right" src="https://i.imgur.com/Kq0iK6j.png" width=24% height=24% />
-<a href="https://szyrgamestudio.com"><img align="right" src="https://c.tenor.com/LMWOS_HKVa8AAAAC/szyr-game-studio-sgs.gif" width=24% height=24% /> </a>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/51244922/175575555-575669cb-8317-4894-b347-575f7d84e4e0.png" width="300" title="hover text">
+</p>
+<h1 align="center">Hi 👋, I'm DEVMASSYN</h1>
+<h3 align="center">IT student at the Kazimierz Wielki University in Bydgoszcz, Poland</h3>
 
-### Hi there, it's DEVMASSYN 👋
+- 🔭 I’m currently working on [SGSClient](https://github.com/szyrgamestudio/SGSClient)
 
-CTO, CMO OF https://szyrgamestudio.com/
-<br>Currently: IT student at the Kazimierz Wielki University in Bydgoszcz, Poland
-## How to reach me
+- 🌱 I’m currently learning **Windows Presentation Foundation, .NET**
 
-[<img align="left" alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/WTmPaaS)[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mateusz-afelt-662799221/)[<img align="left" alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/c/devmassyn)<br>
+- 👨‍💻 All of my projects are available at [https://devmassyn.github.io](https://devmassyn.github.io)
 
-## Languages and tools
-<img align="left" alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img align="left" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<img align="left" alt="cs" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-<img align="left" alt="unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-<img align="left" alt="html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="left" alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+- 📫 How to reach me **devmassyn@outlook.com**
 
-<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/devmassynk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devmassynk" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/devmassyn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devmassyn" height="30" width="40" /></a>
+</p>
 
-## I’m currently working on
-- 🔭 Atorth: Tales of Ulkimond;
-- 🔭 Castleline Evil; 
-- 🔭 Szyr Game Studio Game Launcher; 
-- 🔭 Szyr Game Studio Website
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-## Games / Projects made by me
-### Castleline Evil [<img align="right" alt="itch" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />](linkdogry)<img align="left" alt="cs" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /><img align="left" alt="unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-### Turbo Ninja 2d [<img align="right" alt="itch" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />](https://devmassyn.itch.io/turbo-ninja-2d)<img align="left" alt="cs" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /><img align="left" alt="unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-### https://szyrgamestudio.com [<img align="right" alt="www" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" />](https://szyrgamestudio.com)<img align="left" alt="html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /><img align="left" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/devmassyn"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="devmassyn" /></a></p><br><br>
