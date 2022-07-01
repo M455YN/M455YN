@@ -1,4 +1,7 @@
 [![GitHub Banner](./assets/banner.png)](https://devmassyn.github.io)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/devmassyn)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/devmassyn/)
+
 <h1 align="center">Hi 👋, I'm DEVMASSYN</h1>
 <h3 align="center">IT student at the Kazimierz Wielki University in Bydgoszcz, Poland</h3>
 <h4 align="center">CTO Of SZYRGAMESTUDIO<br>https://github.com/szyrgamestudio</h4>
