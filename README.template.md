@@ -1,11 +1,11 @@
 [![GitHub Banner](./assets/baner.png)](https://devmassyn.github.io)
-![](https://komarev.com/ghpvc/?username=devmassyn)
+![Profile Views](https://komarev.com/ghpvc/?username=devmassyn)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/devmassyn)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/devmassyn/)
 
-<h1 align="center">Hi 👋, I'm DEVMASSYN</h1>
-<h3 align="center">IT student at the Kazimierz Wielki University in Bydgoszcz, Poland</h3>
-<h4 align="center">CTO Of SZYRGAMESTUDIO<br>https://github.com/szyrgamestudio</h4>
+<h1>Hi 👋, I'm DEVMASSYN</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFFF&width=800&lines=IT+student+at+the+Kazimierz+Wielki+University+in+Bydgoszcz%2C+Poland)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on [SGSClient](https://github.com/szyrgamestudio/SGSClient)
 
