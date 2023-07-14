@@ -8,11 +8,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFFF&width=800&lines=IT+student+at+the+Kazimierz+Wielki+University+in+Bydgoszcz%2C+Poland)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on [SGSClient](https://github.com/szyrgamestudio/SGSClient)
-
-- 🌱 I’m currently learning **Windows Presentation Foundation, .NET**
-
-- 👨‍💻 All of my projects are available at [https://devmassyn.github.io](https://devmassyn.github.io)
-
+- 👨‍💻 All of my projects are available at [https://massyn.dev](https://massyn.dev)
 - 📫 How to reach me **devmassyn@outlook.com**
 
 
