@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/devmassyn)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://devmassyn.github.io/)
 
-## Hi 👋, I'm DEVMASSYN
+## Hi 👋, I'm M4SSYN
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFFF&width=800&lines=IT+student+at+the+Kazimierz+Wielki+University+in+Bydgoszcz%2C+Poland)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on [SGSClient](https://github.com/szyrgamestudio/SGSClient)
