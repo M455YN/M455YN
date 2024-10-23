@@ -1,5 +1,5 @@
-[![GitHub Banner](./assets/banner.png)](https://devmassyn.github.io)
-![Profile Views](https://komarev.com/ghpvc/?username=devmassyn)
+[![GitHub Banner](./assets/banner.png)](https://m455yn.github.io)
+![Profile Views](https://komarev.com/ghpvc/?username=m455yn)
 <br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/devmassyn)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://devmassyn.github.io/)
