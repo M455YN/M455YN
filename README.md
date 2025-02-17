@@ -1,14 +1,14 @@
 [![GitHub Banner](./assets/banner.png)](https://m455yn.github.io)
 ![Profile Views](https://komarev.com/ghpvc/?username=m455yn)
 <br>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/devmassyn)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://devmassyn.github.io/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/m455yn)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://m455yn.dev/)
 
 ## Hi 👋, I'm M455YN
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFFF&width=800&lines=IT+student+at+the+Kazimierz+Wielki+University+in+Bydgoszcz%2C+Poland)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on [SGSClient](https://github.com/szyrgamestudio/SGSClient)
-- 👨‍💻 All of my projects are available at [https://m455yn.dev](https://massyn.dev)
+- 👨‍💻 All of my projects are available at [https://m455yn.dev](https://m455yn.dev)
 - 📫 How to reach me **devmassyn@outlook.com**
 
 
