@@ -26,7 +26,7 @@ I'm **M455YN**, a .NET Developer from **Poland** <img src="https://raw.githubuse
       <a href="https://visualstudio.microsoft.com/pl/vs/">
         <img src="./assets/Visual_Studio_Icon_2022.svg" width="60" />
         <br />
-        Visual Studio 2022
+        Visual Studio
       </a>
     </td>
   </tr>
@@ -54,8 +54,5 @@ I'm **M455YN**, a .NET Developer from **Poland** <img src="https://raw.githubuse
     </td>
   </tr>
 </table>
-
-### 👨‍💻 Github Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=m455yn&show_icons=true&theme=dracula" />
 
 <sub>🔥 Contact：m455yn@outlook.com</sub>
