@@ -1,58 +1,42 @@
-# Welcome!
+# M455YN
 
-I'm **M455YN**, a .NET Developer from **Poland** <img src="https://raw.githubusercontent.com/tabler/tabler-flags/refs/heads/main/flags/poland.svg" width="28" />.
-- 🔭 I’m currently working on [SGSClient](https://github.com/szyrgamestudio/SGSClient)
-- 👨‍💻 All of my projects are available at [https://m455yn.dev](https://m455yn.dev)
+.NET developer based in **Poland**.
 
-### Languages and tools I mainly use:
+Building desktop clients, ASP.NET backends, and tooling around Visual Studio / VS Code.
 
-<table>
-  <tr>
-    <td align="center" width="200">
-      <a href="https://learn.microsoft.com/en-us/ssms/install/install">
-        <img src="./assets/MSSQL_SSMS_21_icon.png" width="60" />
-        <br />
-        SQL Server Management Studio
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://github.com/TortoiseGit/TortoiseGit">
-        <img src="https://avatars.githubusercontent.com/u/1103929?s=48&v=4" width="60" />
-        <br />
-        Tortoise Git
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://visualstudio.microsoft.com/pl/vs/">
-        <img src="./assets/Visual_Studio_Icon_2022.svg" width="60" />
-        <br />
-        Visual Studio
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
-      <a href="https://github.com/dotnet/AspNetCore.Docs">
-        <img src="https://avatars.githubusercontent.com/u/9141961?s=48&v=4" width="60" />
-        <br />
-        ASP.NET
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="60" />
-        <br />
-        C#
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://github.com/git/git">
-        <img src="https://avatars.githubusercontent.com/u/18133?s=48&v=4" width="60" />
-        <br />
-        Git
-      </a>
-    </td>
-  </tr>
-</table>
+- Site: [m455yn.dev](https://m455yn.dev)
+- Email: [m455yn@outlook.com](mailto:m455yn@outlook.com)
 
-<sub>🔥 Contact：m455yn@outlook.com</sub>
+## Now
+
+- [SGSClient](https://github.com/szyrgamestudio/SGSClient) — client for the Szyr Game Studio ecosystem
+- [SwiftFind](https://github.com/M455YN/swiftfind) — fast unified search for VS Code (JetBrains-style)
+
+## Featured
+
+| Project | Stack | What it is |
+| --- | --- | --- |
+| [SGSClient](https://github.com/szyrgamestudio/SGSClient) | .NET / desktop | Main product work |
+| [SwiftFind](https://github.com/M455YN/swiftfind) | VS Code / JS | Find, replace, and Task Runner in one extension |
+| [MicrosoftEntraOneDriveDownloader](https://github.com/M455YN/MicrosoftEntraOneDriveDownloader) | C# / Entra ID | OneDrive / Azure access with OAuth 2.0 |
+| [m455yn.github.io](https://github.com/M455YN/m455yn.github.io) | HTML | Personal site source |
+
+More on [m455yn.dev](https://m455yn.dev).
+
+## Stack
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="36" height="36" alt="C#" title="C#" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="36" height="36" alt="ASP.NET" title="ASP.NET / .NET" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="36" height="36" alt="SQL Server" title="SQL Server / SSMS" />
+  &nbsp;
+  <img src="./assets/Visual_Studio_2026_icon.png" width="36" height="36" alt="Visual Studio" title="Visual Studio" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" height="36" alt="VS Code" title="VS Code" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git" title="Git" />
+</p>
+
+C# · ASP.NET · SQL Server · Visual Studio · VS Code · Git
