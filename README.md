@@ -10,6 +10,7 @@ Building desktop clients, ASP.NET backends, and tooling around Visual Studio / V
 ## Now
 
 - [SGSClient](https://github.com/szyrgamestudio/SGSClient) — client for the Szyr Game Studio ecosystem
+- [C# Razor Tag Helper Support](https://github.com/M455YN/sharp-razor-taghelpers) — VS Code support for custom Razor Tag Helpers.
 - [SwiftFind](https://github.com/M455YN/swiftfind) — fast unified search for VS Code (JetBrains-style)
 
 ## Featured
@@ -17,6 +18,7 @@ Building desktop clients, ASP.NET backends, and tooling around Visual Studio / V
 | Project | Stack | What it is |
 | --- | --- | --- |
 | [SGSClient](https://github.com/szyrgamestudio/SGSClient) | .NET / desktop | Main product work |
+| [C# Razor Tag Helper Support](https://github.com/M455YN/sharp-razor-taghelpers) | VS Code / TS | VS Code support for custom Razor Tag Helpers. |
 | [SwiftFind](https://github.com/M455YN/swiftfind) | VS Code / JS | Find, replace, and Task Runner in one extension |
 | [MicrosoftEntraOneDriveDownloader](https://github.com/M455YN/MicrosoftEntraOneDriveDownloader) | C# / Entra ID | OneDrive / Azure access with OAuth 2.0 |
 | [m455yn.github.io](https://github.com/M455YN/m455yn.github.io) | HTML | Personal site source |
