@@ -2,8 +2,6 @@
 
 .NET developer based in **Poland**.
 
-Building desktop clients, ASP.NET backends, and tooling around Visual Studio / VS Code.
-
 - Site: [m455yn.dev](https://m455yn.dev)
 - Email: [m455yn@outlook.com](mailto:m455yn@outlook.com)
 
