@@ -8,7 +8,7 @@
 ## Now
 
 - [SGSClient](https://github.com/szyrgamestudio/SGSClient) — client for the Szyr Game Studio ecosystem
-- [C# Razor Tag Helper Support](https://github.com/M455YN/sharp-razor-taghelpers) — VS Code support for custom Razor Tag Helpers.
+- [C# Razor Tag Helper Support](https://github.com/M455YN/csharp-razor-taghelpers) — VS Code support for custom Razor Tag Helpers.
 - [SwiftFind](https://github.com/M455YN/swiftfind) — fast unified search for VS Code (JetBrains-style)
 
 ## Featured
