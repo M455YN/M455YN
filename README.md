@@ -21,7 +21,7 @@
 | [MicrosoftEntraOneDriveDownloader](https://github.com/M455YN/MicrosoftEntraOneDriveDownloader) | C# / Entra ID | OneDrive / Azure access with OAuth 2.0 |
 | [m455yn.github.io](https://github.com/M455YN/m455yn.github.io) | HTML | Personal site source |
 
-More on [m455yn.dev](https://m455yn.dev).
+More on [m455yn.io](https://m455yn.io).
 
 ## Stack
 
